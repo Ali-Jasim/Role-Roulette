@@ -2,12 +2,6 @@
 
 An application that assigns and distributes identities / roles to a group of players participating in a physical or analog secret-role based game.
 
-[Project Proposal](docs/PROPOSAL.md)
-
-COMP 4350 Group Project — Winter 2020
-
----
-
 <br />
 
 ## Table Of Contents
