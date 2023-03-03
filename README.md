@@ -32,10 +32,6 @@ An application that assigns and distributes identities / roles to a group of pla
 
 <br />
 
-## Production Server
-
-To access the production version of our application please visit: [http://ec2-3-16-156-190.us-east-2.compute.amazonaws.com](http://ec2-3-16-156-190.us-east-2.compute.amazonaws.com)<br />
-
 ### Continuous Deployment
 
 `TODO`: The production server will be updated with every push to master once the action script is added. For now, the deployment will be done manually.
